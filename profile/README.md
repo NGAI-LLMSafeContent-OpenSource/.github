@@ -24,7 +24,7 @@
 截至 **2026 年 11 月 27 日**，已在首批 **14 个工具源码仓库**基础上，补充公开输出风险归因候选实现和输入侧血缘工作流，形成 **16 个正式项目发布仓库**，涵盖风险溯因、异常检测、合规编辑、文化多样性评估、轨迹审计与平台集成等能力。
 
 - **GitHub**：[NGAI-LLMSafeContent-OpenSource](https://github.com/NGAI-LLMSafeContent-OpenSource)——国际开源发布入口。
-- **AtomGit**：[Ameriy 项目列表](https://atomgit.com/user/Ameriy/repos)——国内开源发布入口。
+- **AtomGit**：[NGAI-LLMSafeContent-OpenSource](https://atomgit.com/NGAI-LLMSafeContent-OpenSource)——国内开源发布入口。
 - **OpenI 启智社区**：[molip 项目列表](https://openi.pcl.ac.cn/molip)——国内人工智能开源发布入口。
 - **ModelScope 魔搭社区**：[joplit 主页](https://www.modelscope.cn/profile/joplit)——配套 Studio 代码发布入口；是否部署运行以具体项目说明及平台状态为准。
 
