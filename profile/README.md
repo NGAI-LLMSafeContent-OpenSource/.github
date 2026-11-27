@@ -5,6 +5,7 @@
 **发布单位：NGAI-LLMSafeContent**  
 **公开发布组织：NGAI-LLMSafeContent-OpenSource**  
 **正式发布分支：`release/1.0`**  
+**tag：`v1.0`**  
 **自研代码许可证：Apache License 2.0；第三方代码、模型及数据按各自许可证执行。**
 
 ## 开源目标与模块
